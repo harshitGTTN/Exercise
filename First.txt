@@ -1,5 +1,5 @@
 this is the first line 
-this is the second line modified by master branch 
+this is the second line modified by master branch again`
 Changes to pull
 Stage
 New edit
