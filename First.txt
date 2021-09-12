@@ -1,5 +1,5 @@
 this is the first line 
-this is the second line edited by master for merge 
+this is the second line finalised for development in application by developers and master
 Changes to pull
 Stage
 New edit
